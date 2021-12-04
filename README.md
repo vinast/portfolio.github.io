@@ -1,2 +1,2 @@
 # portfolio-sederhana
-study create portfolio
+Porfolio awal
